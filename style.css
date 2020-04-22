@@ -1,0 +1,47 @@
+body.signin-body {
+    background-color: #e6f2ff;
+}
+
+.container.signin-container {
+    margin-top: 6%;
+    /* margin-bottom: 5%; */
+}
+
+.card.signin-card {
+    padding: 0px 15px 0px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.card-body {
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+.img-fluid.signin-img {
+    padding: 0px 2rem;
+    margin: auto;
+    display: block;
+    max-width: 80%;
+}
+
+form.signin-form {
+    /* width: 95%; */
+    max-width: 380px;
+    /* margin: auto; */
+}
+
+.btn.signin-btn {
+    color: #fff;
+    background-color: rgb(42, 43, 43);
+    width: 100%;
+    /* margin-bottom: 0.1rem; */
+
+}
+
+div.signup-new {
+    margin: 2%;
+    text-align: center;
+}
